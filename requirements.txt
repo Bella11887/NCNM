@@ -1,0 +1,9 @@
+# Core NCNM runtime
+numpy>=1.24
+scipy>=1.10
+tqdm>=4.66
+numba>=0.57
+
+# Point-cloud input/output and optional visualization
+open3d>=0.18
+laspy[lazrs]>=2.5
