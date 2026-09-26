@@ -1,0 +1,8 @@
+# Core-only GitHub upload manifest.
+# Everything is ignored by default, then the upload-ready files are whitelisted.
+*
+
+!.gitignore
+!README.md
+!requirements.txt
+!ncnm_parallel_recognition.py
